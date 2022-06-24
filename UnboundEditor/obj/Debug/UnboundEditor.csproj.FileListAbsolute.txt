@@ -1,0 +1,11 @@
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\bin\Debug\UnboundEditor.exe.config
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\bin\Debug\UnboundEditor.exe
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\bin\Debug\UnboundEditor.pdb
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\obj\Debug\UnboundEditor.csproj.AssemblyReference.cache
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\obj\Debug\UnboundEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\obj\Debug\UnboundEditor.unboundLevelEditor.resources
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\obj\Debug\UnboundEditor.Properties.Resources.resources
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\obj\Debug\UnboundEditor.csproj.GenerateResource.cache
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\obj\Debug\UnboundEditor.csproj.CoreCompileInputs.cache
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\obj\Debug\UnboundEditor.exe
+C:\Users\iammo\Desktop\VS\UnboundEditor\UnboundEditor\UnboundEditor\obj\Debug\UnboundEditor.pdb
