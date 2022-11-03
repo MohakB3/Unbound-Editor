@@ -1,4 +1,4 @@
 # Unbound-Editor
 Unbound Editor Codebase
 
-Part of my Programming 11 Project.
+Editor for Unbound, part of my Programming 11 Project.
